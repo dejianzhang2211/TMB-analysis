@@ -1,6 +1,6 @@
 # TMB-analysis
 
-The related files for submission of Wang J
+The related file for submission of Wang J
 
 The file with Rdata or csv suffix is the necessary data file, and the file with R suffix is R script.
 
